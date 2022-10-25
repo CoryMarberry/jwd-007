@@ -1,5 +1,10 @@
 /* remove this code and add your own! */
-.greeting {
-  color: green;
-  font-size: 30px;
+p {
+    font-family:'Times New Roman', Times, serif;
+}
+h2 {
+  font-family:'Times New Roman', Times, serif;
+}
+li {
+  font-family:'Times New Roman', Times, serif;
 }
